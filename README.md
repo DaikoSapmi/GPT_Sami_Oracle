@@ -3,7 +3,7 @@ This is the home of the [Sámi Oracle](https://chat.openai.com/g/g-vWjbN6qdJ-sam
 It is developed by Rune Fjellheim AS, [fjellheim.tv](https://fjellheim.tv), under the MIT-licence. Please use and improve the prompt and copy the API action as you see fit. I will update this repository as I fine tune the prompt.
 
 1. The **configure.txt** has the content under the headlines Name, Description and Instructions.
-2. Add an action and copy the Tartunlp_api_Schema.json to the TartuNLP and paste it under **Schema**.
+2. Add an action and copy the tartunlp_api_schema.json to the TartuNLP and paste it under **Schema**.
 3. At the bottom of the action page, paste the following website in the **privacy policy** field
 4. Upload the Languages.md to your **Knowledge** section to make sure that the GPT knows how to find language pairs.
 
